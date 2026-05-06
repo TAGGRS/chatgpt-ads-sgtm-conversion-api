@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "ChatGPT Ads - Conversion API",
+  "categories": ["ADVERTISING", "CONVERSIONS", "ATTRIBUTION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
